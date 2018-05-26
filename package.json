@@ -1,0 +1,10 @@
+{
+  "name": "iron-man-arc-reactor",
+  "description": "",
+  "homepage": "https://stackblitz.com/edit/iron-man-arc-reactor",
+  "dependencies": {
+    "emmet": "1.6.3",
+    "prettier": "1.11.1"
+  },
+  "version": "1.0.0"
+}
